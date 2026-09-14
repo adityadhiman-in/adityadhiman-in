@@ -4,7 +4,7 @@ I am a Software Engineer with experience in full stack application development, 
 
 Over the past few years, I have delivered 100+ projects through freelance and professional engagements, working across web applications, business platforms, e-commerce systems, and cloud-hosted solutions. My work spans the full lifecycle of software delivery - from development and deployment to infrastructure management and operational support.
 
-Currently, I work on enterprise applications involving cloud operations, deployment automation, system administration, and cross-functional project execution. I have experience with AWS, Linux environments, GitHub Actions, CI/CD pipelines, WordPress development, and modern web technologies.
+Currently, I am working on enterprise applications involving cloud operations, deployment automation, system administration, and cross-functional project execution. I have experience with AWS, Linux environments, GitHub Actions, CI/CD pipelines, WordPress development, and modern web technologies.
 
 Beyond engineering, I have actively contributed to the developer community as a hackathon mentor, judge, and organizer, mentoring and evaluating 2,000+ participants across multiple technical events. These experiences have strengthened my leadership, collaboration, and problem-solving abilities in fast-paced environments.
 
