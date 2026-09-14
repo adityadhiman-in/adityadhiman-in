@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Dhiman
 
-**I am a Software Engineer with experience in full stack application development, AWS cloud infrastructure, DevOps practices, CI/CD automation, deployment and release management, Linux-based systems, and scalable web solutions, with a strong focus on building reliable, maintainable, and business-oriented softwares.
+I am a Software Engineer with experience in full stack application development, AWS cloud infrastructure, DevOps practices, CI/CD automation, deployment and release management, Linux-based systems, and scalable web solutions, with a strong focus on building reliable, maintainable, and business-oriented softwares.
 
 Over the past few years, I have delivered 100+ projects through freelance and professional engagements, working across web applications, business platforms, e-commerce systems, and cloud-hosted solutions. My work spans the full lifecycle of software delivery - from development and deployment to infrastructure management and operational support.
 
@@ -24,7 +24,7 @@ My areas of interest include:
 
 I enjoy building reliable systems, improving development workflows, content creation & technical branding, community building & developers Engagement and solving real-world engineering challenges through practical and scalable solutions.
 
-Always open to connecting with engineers, founders, recruiters, and professionals working on impactful technology products..**
+Always open to connecting with engineers, founders, recruiters, and professionals working on impactful technology products.
 
 #  GitHub Stats
 
